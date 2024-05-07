@@ -1,0 +1,6 @@
+@KingICT.Tickets.B2CPortalWebApi_HostAddress = http://localhost:5227
+
+GET {{KingICT.Tickets.B2CPortalWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
