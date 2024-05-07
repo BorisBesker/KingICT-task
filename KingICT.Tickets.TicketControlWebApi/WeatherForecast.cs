@@ -1,4 +1,4 @@
-namespace KingICT.Tickets.B2CPortalWebApi
+namespace KingICT.Tickets.TicketControlWebApi
 {
     public class WeatherForecast
     {
