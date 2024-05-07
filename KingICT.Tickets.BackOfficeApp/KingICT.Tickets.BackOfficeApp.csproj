@@ -7,12 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Elk.NET" Version="1.2.0" />
-    <PackageReference Include="Keycloak.AuthServices.Authentication" Version="2.1.0" />
-    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\KingICT.Tickets.BusinessLogic\KingICT.Tickets.BusinessLogic.csproj" />
     <ProjectReference Include="..\KingICT.Tickets.Common\KingICT.Tickets.Common.csproj" />
     <ProjectReference Include="..\KingICT.Tickets.ServiceLayer\KingICT.Tickets.ServiceLayer.csproj" />
