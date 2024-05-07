@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\KingICT.Tickets.BusinessLogic\KingICT.Tickets.BusinessLogic.csproj" />
+    <ProjectReference Include="..\KingICT.Tickets.Common\KingICT.Tickets.Common.csproj" />
+  </ItemGroup>
+
 </Project>
