@@ -6,6 +6,6 @@
 
         // Extension, helper methods => string maniplation, xml parsing.... etc => all common stuf
 
-         // Can be also deployes and user as a nugget package
+         // Can be also deployed and user as a nugget package
     }
 }

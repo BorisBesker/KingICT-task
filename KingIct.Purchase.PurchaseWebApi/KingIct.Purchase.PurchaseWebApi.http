@@ -1,0 +1,6 @@
+@KingIct.Purchase.PurchaseWebApi_HostAddress = http://localhost:5037
+
+GET {{KingIct.Purchase.PurchaseWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

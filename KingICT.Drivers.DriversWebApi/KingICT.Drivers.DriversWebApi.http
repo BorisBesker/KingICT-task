@@ -1,0 +1,6 @@
+@KingICT.Drivers.DriversWebApi_HostAddress = http://localhost:5077
+
+GET {{KingICT.Drivers.DriversWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
