@@ -1,0 +1,6 @@
+@KingICT.Mechanization.MechanizationWebApi_HostAddress = http://localhost:5204
+
+GET {{KingICT.Mechanization.MechanizationWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

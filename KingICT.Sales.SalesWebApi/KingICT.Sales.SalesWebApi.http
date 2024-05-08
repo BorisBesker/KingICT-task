@@ -1,0 +1,6 @@
+@KingICT.Sales.SalesWebApi_HostAddress = http://localhost:5117
+
+GET {{KingICT.Sales.SalesWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

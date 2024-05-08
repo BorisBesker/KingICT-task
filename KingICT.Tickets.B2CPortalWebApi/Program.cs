@@ -15,6 +15,8 @@ var app = builder.Build();
 // DI resovler
 // Resolve services(interface => implemantations)
 
+// Dependent on particular DataAccess(needed for DI), agonostic of BusinessLogic
+
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
