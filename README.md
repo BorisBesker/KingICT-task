@@ -1,6 +1,6 @@
 # KingICT-task
 
-In the Tickets context there is whole application structure, as an example how the projects shuld be defined(losse coupling, modularity, separation of concerns), and all the dependencies between them. Also in the ticket context are producers and messages class, in other contexts these things are omited (you can see it on the design picture how to communaction looks like) and also for not knowing in depth what certain business events need to be potentialy shared accross apps.
+In the Tickets context is whole application structure, as an example how the projects shuld be defined(loose coupling, modularity, separation of concerns), and all the dependencies between them. Also in the ticket context are producers and messages class, in other contexts these things are omited (you can see it on the design picture how to communaction looks like) and also for not knowing in depth what certain business events need to be potentialy shared accross apps.
 
 ![image](https://github.com/BorisBesker/KingICT-task/assets/26566198/ab34fd70-6189-4613-89be-33716d68a29b)
 
